@@ -1,1 +1,4 @@
-# Various notes on DFIR related topics
+---
+title: Welcome to my blog
+---
+
